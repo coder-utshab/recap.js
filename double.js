@@ -13,10 +13,11 @@ console.log(fiveBonus)
 
 
 //amra jodii length bar korta chay
-const frieands = ['sajib', 'shuvobis', 'diptokanon', 'animesh']
-const lengths = frieands.map(frnd => frnd.length)
-console.log(lengths)
+// const frieands = ['sajib', 'shuvobis', 'diptokanon', 'animesh']
+// const lengths = frieands.map(frnd => frnd.length)
+// console.log(lengths)
 
 //ami jodi prottak ta freand ar first letter neta chay
 const firstLetter = frieands.map(frieands => frieands[0])
 console.log(firstLetter);
+
